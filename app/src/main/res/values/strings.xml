@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BCS421Exam2</string>
+    <string name="first">First</string>
+    <string name="last">Last</string>
+    <string name="major">Major</string>
+    <string name="addStudent">ADD STUDENT</string>
+</resources>
